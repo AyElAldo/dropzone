@@ -6,6 +6,7 @@
 
 Permite **subir** archivos desde cualquier máquina/dispositivo de la red (arrastrando y soltando o seleccionando desde el navegador) y **descargar** los archivos recibidos desde una interfaz web con listado en vivo.
 
+![dropzone](src/dropzone.png)
 ---
 
 ## Advertencia de seguridad — LEE ESTO ANTES DE USARLO
